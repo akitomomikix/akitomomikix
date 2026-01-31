@@ -46,7 +46,8 @@ Very interested in.
 ## 📊 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitomomikix&layout=compact&theme=dark&hide_border=true&exclude_repo=repo1,repo2" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akitomomikix&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akitomomikix&theme=dark" alt="Most Commit Language" />
 </p>
 
 ## 🧑‍💻 WakaTime
