@@ -40,8 +40,8 @@ Very interested in.
 ## 💎 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomozon&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomozon&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomozon&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomozon&layout=compact&theme=dark&hide_border=true&langs_count=6&card_width=320" alt="Top Languages" height="170" />
 </p>
 
 ## 🧑‍💻 WakaTime
