@@ -46,9 +46,9 @@ Very interested in.
 ## 📊 Most Used Languages
 
 <p align="left">
-  <img src="./profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
-  <img src="./profile-summary-card-output/dark/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="./profile-summary-card-output/dark/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/akitomomikix/akitomomikix/profile-summary-cards/profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/akitomomikix/akitomomikix/profile-summary-cards/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/akitomomikix/akitomomikix/profile-summary-cards/profile-summary-card-output/dark/3-stats.svg" alt="Stats" />
 </p>
 
 ## 🧑‍💻 WakaTime
