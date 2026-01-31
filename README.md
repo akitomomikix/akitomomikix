@@ -41,7 +41,7 @@ Very interested in.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akitomomikix&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akitomomikix&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=akitomomikix&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ## 🧑‍💻 WakaTime
